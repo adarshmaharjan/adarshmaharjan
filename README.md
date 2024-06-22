@@ -1,4 +1,3 @@
-te the following text into your README.md file
 
 # Hi, I'm Adarsh Maharjan! 👋
 
