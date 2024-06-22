@@ -17,7 +17,7 @@ I am a passionate software developer, driven by a curiosity for technology and a
 
 ## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,aws,reactjs,nextjs,flutter,dart,github,docker,linux,express,nestjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,aws,react,nextjs,flutter,dart,github,docker,linux,express,nestjs)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
