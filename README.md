@@ -33,7 +33,7 @@ I am a passionate software developer, driven by a curiosity for technology and a
 
 ## 📬 Get in Touch
 
-- Connect with me on [Twitter](https://twitter.com/adarshmahrjan)
+- Connect with me on [Twitter](https://twitter.com/adarshmaharjan)
 - Read more of my articles on [Dev.to](https://dev.to/adarshmaharjan)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
