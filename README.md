@@ -3,15 +3,14 @@
 
 I am a passionate software developer, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
-
 ## 🚀 About Me
 
 - 🔭 I'm currently in my pursuit to gain knowledge and help in open source to gain as much experience as possible.
 - ✍️ Content Writer at [Dev.to](https://dev.to/adarshmaharjan), gearing up to share valuable insights with the global coding community.
 
 ## My Articles
-- [Integration of eslint, prettier, husky, lint-staged, commit-lint with next js](https://dev.to/adarshmaharjan/integration-of-eslint-prettier-husky-lint-staged-commit-lint-with-next-js-42mj)
 
+- [Integration of eslint, prettier, husky, lint-staged, commit-lint with next js](https://dev.to/adarshmaharjan/integration-of-eslint-prettier-husky-lint-staged-commit-lint-with-next-js-42mj)
 
 ## Tech Stack
 
@@ -26,10 +25,9 @@ I am a passionate software developer, driven by a curiosity for technology and a
   - Building server-side applications with Express and Nestjs, a powerful Nodejs web framework.
   - Diving into PostgreSQL for efficient and scalable database management.
 
- ## 🏆 Achievements
+## 🏆 Achievements
 
-- 🌟 Mentorship in the Ideathon session of Microsft Imagine cut - Contributed to the development of young talents and celebrated the spirit of collaboration.
-
+- 🌟 Mentorship in the Ideathon session of Microsoft Imagine cut - Contributed to the development of young talents and celebrated the spirit of collaboration.
 
 ## 📬 Get in Touch
 
@@ -37,19 +35,3 @@ I am a passionate software developer, driven by a curiosity for technology and a
 - Read more of my articles on [Dev.to](https://dev.to/adarshmaharjan)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
-
-
-
-<!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
