@@ -1,5 +1,6 @@
 
 # Hi, I'm Adarsh Maharjan! 👋
+<a href="https://app.daily.dev/adarshmaharjan"><img src="https://api.daily.dev/devcards/v2/F7IGZ3vt6xbBLVYDT9Qb0.png?type=wide&r=c98" width="652" alt="adarsh maharjan's Dev Card"/></a>
 
 I am a passionate software developer, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
