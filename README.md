@@ -3,6 +3,7 @@
 <a href="https://app.daily.dev/adarshmaharjan"><img src="https://api.daily.dev/devcards/v2/F7IGZ3vt6xbBLVYDT9Qb0.png?type=wide&r=vz7" width="652" alt="adarsh maharjan's Dev Card"/></a>
 
 I am a passionate software developer, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+---
 [![wakatime](https://wakatime.com/badge/user/f84de18b-6bab-41ba-9c91-5655da1e954a.svg)](https://wakatime.com/@f84de18b-6bab-41ba-9c91-5655da1e954a)
 
 ## 🚀 About Me
